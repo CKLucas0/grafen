@@ -1,0 +1,26 @@
+B: green: C
+C: red: B D
+D: green: C E
+E: red: D F
+F: green: E G
+G: red: F H
+H: green: G I
+I: red: H J
+J: green: I
+L: green: M
+M: red: L N
+N: green: M O
+O: red: N P
+P: green: O Q
+Q: red: P R
+R: green: Q S
+S: red: R T
+T: green: S U
+U: red: T V Z AB
+V: green: U W
+W: red: V X
+X: green: W Y
+Y: red: X Z
+Z: green: Y U
+AA: red: AB
+AB: green: AA U
